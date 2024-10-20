@@ -10,7 +10,7 @@
 ### 👨🏻‍💻 About Me
 
 💡 I'm a **front-end web developer** passionate about building interactive and responsive web applications.  \
-👶 I’m young developer eager to learn and grow in the tech industry.
+👶 As a young developer eager to learn and grow in the tech industry.
 🌱 Currently diving deeper into **JavaScript**.  \
 🎮 In my free time, I enjoy **gaming** and working on side projects.  \
 💬 Always open for collaboration or discussions on **web development** and **gaming**. \
