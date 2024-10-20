@@ -41,7 +41,7 @@
 
 ### 📫 Contact with Me
 
-[![Twitter](https://img.shields.io/badge/-x-05122A?style=flat-square&logo=twitter&logoColor=white)](https://x.com/tojacytryn)
+[![Twitter](https://img.shields.io/badge/Twitter-05122A?logo=x&link=https%3A%2F%2Fx.com%2Ftojacytryn%2F)]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/tojacytryn/)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:pancytryn.dawid@gmail.com)
 
