@@ -1,5 +1,3 @@
-
-
 # <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hello there! 
 
 ![version:20.10.2024](https://img.shields.io/badge/version-20.10.2024-informational)&nbsp;
@@ -10,7 +8,7 @@
 ### 👨🏻‍💻 About Me
 
 💡 I'm a **front-end web developer** passionate about building interactive and responsive web applications.  \
-👶 As a young developer eager to learn and grow in the tech industry.
+👶 As a young developer eager to learn and grow in the tech industry. \
 🌱 Currently diving deeper into **JavaScript**.  \
 🎮 In my free time, I enjoy **gaming** and working on side projects.  \
 💬 Always open for collaboration or discussions on **web development** and **gaming**. \
@@ -18,7 +16,7 @@
 
 ---
 
-### 🌐 Languages Proficiency
+### 🌐 Code
 
 | Language      | Proficiency Level  |
 |---------------|---------------------|
@@ -28,10 +26,11 @@
 | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; | ![Python](https://img.shields.io/badge/-30%25-orange) |
 | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; | ![C++](https://img.shields.io/badge/-10%25-red) |
 | ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;    | ![Java](https://img.shields.io/badge/-5%25-darkred) |
+| ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp; | ![SQL](https://img.shields.io/badge/-50%25-green) |
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tools
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -46,3 +45,9 @@
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:pancytryn.dawid@gmail.com)
 
 ---
+
+## 📈 GitHub Stats 
+
+[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/tojacytryn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/tojacytryn)
