@@ -29,12 +29,12 @@
 
 | Language      | Proficiency Level  |
 |---------------|---------------------|
+| ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;       | ![HTML](https://img.shields.io/badge/-80%25-brightgreen) |
+| ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;    | ![CSS](https://img.shields.io/badge/-50%25-green) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; | ![JavaScript](https://img.shields.io/badge/-40%25-yellow) |
-| ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;       | ![HTML](https://img.shields.io/badge/-80%25-green) |
-| ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;    | ![CSS](https://img.shields.io/badge/-50%25-blue) |
-| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; | ![Python](https://img.shields.io/badge/-30%25-red) |
-| ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; | ![C++](https://img.shields.io/badge/-10%25-orange) |
-| ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;    | ![Java](https://img.shields.io/badge/-5%25-purple) |
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; | ![Python](https://img.shields.io/badge/-30%25-orange) |
+| ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; | ![C++](https://img.shields.io/badge/-10%25-red) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;    | ![Java](https://img.shields.io/badge/-5%25-darkred) |
 
 ---
 
