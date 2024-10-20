@@ -14,9 +14,10 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+
+
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -25,13 +26,13 @@
 
 | Language       | Proficiency |
 |----------------|-------------|
-| JavaScript     | ![JavaScript](https://img.shields.io/badge/40%25-yellow) |
-| HTML           | ![HTML](https://img.shields.io/badge/80%25-green) |
-| CSS            | ![CSS](https://img.shields.io/badge/50%25-blue) |
-| Python         | ![Python](https://img.shields.io/badge/30%25-red) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;     | ![JavaScript](https://img.shields.io/badge/40%25-yellow) |
+| ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;           | ![HTML](https://img.shields.io/badge/80%25-green) |
+| ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;            | ![CSS](https://img.shields.io/badge/50%25-blue) |
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;         | ![Python](https://img.shields.io/badge/30%25-red) |
 
 ### 📫 &nbsp; How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/tojacytryn/) &nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/tojacytryn) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/tojacytryn/) &nbsp;
 [![Email](https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail)](mailto:pancytryn.dawid@gmail.com)
 
