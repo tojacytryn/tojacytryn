@@ -34,7 +34,7 @@
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; | ![JavaScript](https://img.shields.io/badge/-40%25-yellow) |
 | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; | ![Python](https://img.shields.io/badge/-30%25-orange) |
 | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; | ![C++](https://img.shields.io/badge/-10%25-red) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;    | ![Java](https://img.shields.io/badge/-5%25-darkred) |
+| ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;    | ![Java](https://img.shields.io/badge/-5%25-darkred) |
 
 ---
 
