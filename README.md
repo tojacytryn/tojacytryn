@@ -1,11 +1,4 @@
-# 👋 Hi, I’m @tojacytryn
-- 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: [Email me!](mailto:tojacytryn@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can beat anyone in Tetris!
-
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there!
+# <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there!
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=tojacytryn)&nbsp;
 [![GitHub tojacytryn](https://img.shields.io/github/followers/tojacytryn?label=follow&style=social)](https://github.com/tojacytryn)&nbsp;
@@ -32,13 +25,13 @@
 
 | Language       | Proficiency |
 |----------------|-------------|
-| JavaScript     | ![JavaScript](https://img.shields.io/badge/60%25-yellow) |
+| JavaScript     | ![JavaScript](https://img.shields.io/badge/40%25-yellow) |
 | HTML           | ![HTML](https://img.shields.io/badge/80%25-green) |
-| CSS            | ![CSS](https://img.shields.io/badge/70%25-blue) |
-| Python         | ![Python](https://img.shields.io/badge/40%25-red) |
+| CSS            | ![CSS](https://img.shields.io/badge/50%25-blue) |
+| Python         | ![Python](https://img.shields.io/badge/30%25-red) |
 
 ### 📫 &nbsp; How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/tojacytryn/) &nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/tojacytryn) &nbsp;
-[![Email](https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail)](mailto:tojacytryn@example.com)
+[![Email](https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail)](mailto:pancytryn.dawid@gmail.com)
 
