@@ -35,13 +35,13 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ---
 
 ### 📫 Contact with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-05122A?logo=x&link=https%3A%2F%2Fx.com%2Ftojacytryn%2F)]
+![Twitter](https://img.shields.io/badge/Twitter-05122A?logo=x&link=https%3A%2F%2Fx.com%2Ftojacytryn%2F)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/tojacytryn/)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:pancytryn.dawid@gmail.com)
 
