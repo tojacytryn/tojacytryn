@@ -48,6 +48,6 @@
 
 ## 📈 GitHub Stats 
 
-[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/tojacytryn)
+[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=tojacytryn)](https://github.com/tojacytryn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/tojacytryn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tojacytryn&layout=compact)](https://github.com/tojacytryn)
