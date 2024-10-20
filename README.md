@@ -1,5 +1,5 @@
 # <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there!
-![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
+![version :20.10.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=tojacytryn)&nbsp;
 [![GitHub tojacytryn](https://img.shields.io/github/followers/tojacytryn?label=follow&style=social)](https://github.com/tojacytryn)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
