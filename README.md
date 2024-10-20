@@ -9,19 +9,11 @@
 
 ### 👨🏻‍💻 About Me
 
-💡 I'm a **front-end developer** passionate about building interactive and responsive web applications.  \
+💡 I'm a **front-end web developer** passionate about building interactive and responsive web applications.  \
 🌱 Currently diving deeper into **JavaScript**.  \
 🎮 In my free time, I enjoy **gaming** and working on side projects.  \
-💬 Always open for collaboration or discussions on **web development**, **UI/UX**, or **gaming**. \
-📩 Reach me on **Discord**: `tojacytryn`.\
-
----
-
-### 🛠 Tech Stack
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+💬 Always open for collaboration or discussions on **web development** and **gaming**. \
+📩 Reach me on **Discord**: `tojacytryn`.
 
 ---
 
@@ -35,6 +27,14 @@
 | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; | ![Python](https://img.shields.io/badge/-30%25-orange) |
 | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; | ![C++](https://img.shields.io/badge/-10%25-red) |
 | ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;    | ![Java](https://img.shields.io/badge/-5%25-darkred) |
+
+---
+
+### 🛠 Tech Stack
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
