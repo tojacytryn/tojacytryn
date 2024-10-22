@@ -190,7 +190,7 @@
 ---
 
 ## 📈 GitHub Stats 
-<a href="https://github.com/tojacytryn">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tojacytryn&show_icons=true&hide_border=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tojacytryn&layout=compact&langs_count=8&hide_border=true&theme=dark" />
-</a>
+</div>
