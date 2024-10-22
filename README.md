@@ -5,10 +5,9 @@
 [![GitHub tojacytryn](https://img.shields.io/github/followers/tojacytryn?label=follow&style=social)](https://github.com/tojacytryn)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-## 👋 About Me
+## 🧐 About Me
 
-Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passion for building responsive, interactive websites. I'm always learning and improving my skills in web development.
-
+- 💻 Young Developer from Poland 🇵🇱
 - 🌱 Currently focused on learning **JavaScript**.
 - 🎮 In my free time, I enjoy working on side projects and **gaming**.
 - 💬 Open for collaboration and discussions on **web development** or **gaming**!
