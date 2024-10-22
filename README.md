@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hey there, I'm Dawid!
 
-![version:22.10.2024](https://img.shields.io/badge/version-20.10.2024-informational)&nbsp;
+![version:22.10.2024](https://img.shields.io/badge/version-22.10.2024-informational)&nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=tojacytryn)&nbsp;
 [![GitHub tojacytryn](https://img.shields.io/github/followers/tojacytryn?label=follow&style=social)](https://github.com/tojacytryn)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -30,27 +30,27 @@ Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passio
       <tbody>
         <tr>
           <td><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></td>
-          <td><img src="https://img.shields.io/badge/-90%25-brightgreen"></td>
+          <td><img src="https://img.shields.io/badge/-90%25-darkgreen"></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6"></td>
-          <td><img src="https://img.shields.io/badge/-65%25-yellowgreen"></td>
+          <td><img src="https://img.shields.io/badge/-65%25-green"></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></td>
-          <td><img src="https://img.shields.io/badge/-45%25-gold"></td>
+          <td><img src="https://img.shields.io/badge/-45%25-yellowgreen"></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql"></td>
-          <td><img src="https://img.shields.io/badge/-50%25-lightgreen"></td>
+          <td><img src="https://img.shields.io/badge/-50%25-limegreen"></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></td>
-          <td><img src="https://img.shields.io/badge/-30%25-orange"></td>
+          <td><img src="https://img.shields.io/badge/-30%25-yellow"></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/php-05122A?style=flat&logo=PHP&logoColor=white"></td>
-          <td><img src="https://img.shields.io/badge/-20%25-orangered"></td>
+          <td><img src="https://img.shields.io/badge/-20%25-orange"></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"></td>
@@ -63,6 +63,7 @@ Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passio
       </tbody>
     </table>
   </div>
+  
   <div>
     <h3>🛠 Tools</h3>
     <table>
