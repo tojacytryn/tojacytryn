@@ -82,7 +82,7 @@
               </td>
               <td>
                 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-20%25-orange">
-                  <img src="https://img.shields.io/badge/-20%25-orange" style="max-width: 100%;">
+                  <img src="https://img.shields.io/badge/-20%25-darkorange" style="max-width: 100%;">
                 </a>
               </td>
             </tr>
@@ -94,7 +94,7 @@
               </td>
               <td>
                 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-20%25-orange">
-                  <img src="https://img.shields.io/badge/-15%25-darkorange" style="max-width: 100%;">
+                  <img src="https://img.shields.io/badge/-15%25-orange" style="max-width: 100%;">
                 </a>
               </td>
             </tr>
