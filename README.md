@@ -17,83 +17,34 @@ Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passio
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="display: inline-block; margin-right: 20px;">
-    <h3>👨‍💻 Languages</h3>
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Proficiency</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></td>
-          <td><img src="https://img.shields.io/badge/-80%25-darkgreen"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6"></td>
-          <td><img src="https://img.shields.io/badge/-55%25-limegreen"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></td>
-          <td><img src="https://img.shields.io/badge/-45%25-green"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql"></td>
-          <td><img src="https://img.shields.io/badge/-35%25-yellowgreen"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></td>
-          <td><img src="https://img.shields.io/badge/-30%25-yellow"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/php-05122A?style=flat&logo=PHP&logoColor=white"></td>
-          <td><img src="https://img.shields.io/badge/-20%25-orange"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"></td>
-          <td><img src="https://img.shields.io/badge/-10%25-red"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white"></td>
-          <td><img src="https://img.shields.io/badge/-3%25-darkred"></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <div style="display: inline-block;">
-    <h3>🛠 Tools</h3>
-    <table>
-      <thead>
-        <tr>
-          <th>Tool</th>
-          <th>Expertise</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></td>
-          <td>Learning</td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"></td>
-          <td>Beginner</td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></td>
-          <td>Proficient</td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma"></td>
-          <td>Learning</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
+<table>
+  <tr>
+    <th>👨‍💻 Languages</th>
+    <th>🛠 Tools</th>
+  </tr>
+  <tr>
+    <td>
+      | Language | Proficiency |
+      |--|--|
+      | <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"> | <img src="https://img.shields.io/badge/-80%25-darkgreen"> |
+      | <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6"> | <img src="https://img.shields.io/badge/-55%25-limegreen"> |
+      | <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"> | <img src="https://img.shields.io/badge/-45%25-green"> |
+      | <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql"> | <img src="https://img.shields.io/badge/-35%25-yellowgreen"> |
+      | <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"> | <img src="https://img.shields.io/badge/-30%25-yellow"> |
+      | <img src="https://img.shields.io/badge/php-05122A?style=flat&logo=PHP&logoColor=white"> | <img src="https://img.shields.io/badge/-20%25-orange"> |
+      | <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"> | <img src="https://img.shields.io/badge/-10%25-red"> |
+      | <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white"> | <img src="https://img.shields.io/badge/-3%25-darkred"> |
+    </td>
+    <td>
+      | Tool | Expertise |
+      |--|--|
+      | <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"> | Learning |
+      | <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"> | Beginner |
+      | <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"> | Proficient |
+      | <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma"> | Learning |
+    </td>
+  </tr>
+</table>
 
 ---
 
