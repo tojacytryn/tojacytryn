@@ -134,43 +134,11 @@
             </tr>
             <tr>
               <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
-                  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" style="max-width: 100%;">
-                </a>
-              </td>
-              <td>Intermediate</td>
-            </tr>
-            <tr>
-              <td>
                 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
                   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" style="max-width: 100%;">
                 </a>
               </td>
               <td>Learning</td>
-            </tr>
-            <tr>
-              <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-                  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" style="max-width: 100%;">
-                </a>
-              </td>
-              <td>Learning</td>
-            </tr>
-            <tr>
-              <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js">
-                  <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js" style="max-width: 100%;">
-                </a>
-              </td>
-              <td>Learning</td>
-            </tr>
-            <tr>
-              <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman">
-                  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" style="max-width: 100%;">
-                </a>
-              </td>
-              <td>Intermediate</td>
             </tr>
           </tbody>
         </table>
