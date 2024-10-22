@@ -22,11 +22,11 @@
 |---------------|---------------------|
 | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;       | ![HTML](https://img.shields.io/badge/-80%25-darkgreen) |
 | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;    | ![CSS](https://img.shields.io/badge/-50%25-brightgreen) |
-| ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp; | ![SQL](https://img.shields.io/badge/-50%25-green) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; | ![JavaScript](https://img.shields.io/badge/-40%25-lime) |
+| ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp; | ![SQL](https://img.shields.io/badge/-50%25-lime) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; | ![JavaScript](https://img.shields.io/badge/-40%25-yellow) |
 | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; | ![Python](https://img.shields.io/badge/-30%25-orange) |
-| ![PHP](https://img.shields.io/badge/php-05122A?style=flat&logo=PHP&logoColor=white)&nbsp;    | ![Java](https://img.shields.io/badge/-3%20-red) |
-| ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; | ![C++](https://img.shields.io/badge/-10%25-red) |
+| ![PHP](https://img.shields.io/badge/php-05122A?style=flat&logo=PHP&logoColor=white)&nbsp;    | ![Java](https://img.shields.io/badge/-20%25-red) |
+| ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; | ![C++](https://img.shields.io/badge/-10%25-maroon) |
 | ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;    | ![Java](https://img.shields.io/badge/-3%25-darkred) |
 
 ---
