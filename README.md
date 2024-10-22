@@ -30,11 +30,11 @@ Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passio
       <tbody>
         <tr>
           <td><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></td>
-          <td><img src="https://img.shields.io/badge/-90%25-darkgreen"></td>
+          <td><img src="https://img.shields.io/badge/-80%25-darkgreen"></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6"></td>
-          <td><img src="https://img.shields.io/badge/-65%25-limegreen"></td>
+          <td><img src="https://img.shields.io/badge/-55%25-limegreen"></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></td>
@@ -42,7 +42,7 @@ Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passio
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql"></td>
-          <td><img src="https://img.shields.io/badge/-50%25-yellowgreen"></td>
+          <td><img src="https://img.shields.io/badge/-35%25-yellowgreen"></td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></td>
@@ -58,7 +58,7 @@ Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passio
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white"></td>
-          <td><img src="https://img.shields.io/badge/-5%25-darkred"></td>
+          <td><img src="https://img.shields.io/badge/-3%25-darkred"></td>
         </tr>
       </tbody>
     </table>
