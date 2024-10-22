@@ -185,7 +185,7 @@ Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passio
 ## 📫 Let's Connect
 
 [![Twitter](https://img.shields.io/badge/Twitter-05122A?logo=x)](https://x.com/tojacytryn/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/tojacytryn/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://github.com/tojacytryn/)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:pancytryn.dawid@gmail.com)&nbsp;
 
 ---
