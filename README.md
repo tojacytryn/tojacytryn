@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hey there, I'm Dawid!
 
-![version:22.10.2024](https://img.shields.io/badge/version-22.10.2024-informational)&nbsp;
+![version:22.10.2024](https://img.shields.io/badge/version-20.10.2024-informational)&nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=tojacytryn)&nbsp;
 [![GitHub tojacytryn](https://img.shields.io/github/followers/tojacytryn?label=follow&style=social)](https://github.com/tojacytryn)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -17,8 +17,8 @@ Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passio
 
 ---
 
-<div style="display: flex;">
-  <div style="margin-right: 20px;">
+<div style="display: flex; justify-content: space-between;">
+  <div style="display: inline-block; margin-right: 20px;">
     <h3>👨‍💻 Languages</h3>
     <table>
       <thead>
@@ -63,8 +63,8 @@ Hi, I'm **Dawid**, a young **front-end developer** from **Poland** with a passio
       </tbody>
     </table>
   </div>
-  
-  <div>
+
+  <div style="display: inline-block;">
     <h3>🛠 Tools</h3>
     <table>
       <thead>
