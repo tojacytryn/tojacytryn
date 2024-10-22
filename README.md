@@ -5,7 +5,7 @@
 [![GitHub tojacytryn](https://img.shields.io/github/followers/tojacytryn?label=follow&style=social)](https://github.com/tojacytryn)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-## 🧐 About Me
+## 📌 About Me
 
 - 💻 Young Developer from Poland 🇵🇱
 - 🌱 Currently focused on learning **JavaScript**.
