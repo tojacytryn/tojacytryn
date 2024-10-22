@@ -88,6 +88,18 @@
             </tr>
             <tr>
               <td>
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP">
+                  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP" style="max-width: 100%;">
+                </a>
+              </td>
+              <td>
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-20%25-orange">
+                  <img src="https://img.shields.io/badge/-15%25-darkorange" style="max-width: 100%;">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
                 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">
                   <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" style="max-width: 100%;">
                 </a>
