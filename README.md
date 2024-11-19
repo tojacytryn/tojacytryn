@@ -122,6 +122,14 @@
                 </a>
               </td>
             </tr>
+            <tr>
+              <td>
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
+                  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" style="max-width: 100%;">
+                </a>
+              </td>
+              <td>Learning</td>
+            </tr>
           </tbody>
         </table>
       </td>
@@ -143,14 +151,6 @@
                 </a>
               </td>
               <td>Intermediate</td>
-            </tr>
-            <tr>
-              <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
-                  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" style="max-width: 100%;">
-                </a>
-              </td>
-              <td>Learning</td>
             </tr>
           </tbody>
         </table>
