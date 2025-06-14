@@ -3,9 +3,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Version-14.06.2025-informational" alt="Version" style="display: inline-block;" />
   <img src="https://komarev.com/ghpvc/?username=tojacytryn" alt="Profile views" style="display: inline-block;" />
-  <a href="https://github.com/tojacytryn">
-    <img src="https://img.shields.io/github/followers/tojacytryn?label=follow&style=social" alt="GitHub followers" style="display: inline-block;" />
-  </a>
 </p>
 
 ### 📌 About Me
