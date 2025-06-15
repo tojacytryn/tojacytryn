@@ -19,7 +19,7 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,python,php,cpp,mysql,discordjs,git,github,vscode,notion,npm,pr,gmail,figma,windows,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,python,php,cpp,mysql,discordjs,git,github,vscode,notion,pr,gmail,figma,windows&perline=9" />
 </p>
 
 
