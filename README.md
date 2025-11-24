@@ -8,7 +8,7 @@
 ### 📌 About Me
 
 - 💻 Young Developer from Poland 🇵🇱  
-- 🌱 Currently focused on learning **JavaScript**  
+- 🌱 Currently focused on learning **React** and **NextJS**  
 - 🎮 In my free time, I enjoy working on side projects and **gaming**  
 - 💬 Open for collaboration and discussions on **web development** or **gaming**
 
@@ -19,7 +19,7 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,python,php,mysql,discordjs,git,github,vscode,notion,gmail,figma,windows&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react,nextjs,python,php,mysql,discordjs,git,github,vscode,gmail,figma,windows&perline=9" />
 </p>
 
 
