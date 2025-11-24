@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hey there, I'm Dawid!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Version-14.06.2025-informational" alt="Version" style="display: inline-block;" />
+  <img src="https://img.shields.io/badge/Version-24.11.2025-informational" alt="Version" style="display: inline-block;" />
   <img src="https://komarev.com/ghpvc/?username=tojacytryn" alt="Profile views" style="display: inline-block;" />
 </p>
 
